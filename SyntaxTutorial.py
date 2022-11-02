@@ -537,17 +537,3 @@ Name :  Mehmet Mert Menevşe
 Number :  123456
 Balance :  200
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
