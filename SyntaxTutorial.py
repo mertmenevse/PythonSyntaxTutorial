@@ -475,12 +475,12 @@ print(list) #[2, 3, 4, 5, 6]
 print("---------------------------------------------------------")
 
 #Folders
-file = open("dosya.txt","a")
+file = open("folder.txt","a")
 file.write("What's up Python\n")
 file.write("What's up Java\n")
 file.write("What's up C++")
 
-file = open("dosya.txt","r")
+file = open("folder.txt","r")
 data = file.read()
 print(data)
 """
